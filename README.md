@@ -2,7 +2,7 @@
 
 <p align="center">
   <em>
-    Full-Stack Developer | Mathematics Enthusiast | Online Programming Instructor
+    Full-Stack Developer | Mathematics Enthusiast
   </em>
 </p>
 
